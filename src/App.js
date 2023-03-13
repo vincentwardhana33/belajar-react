@@ -1,5 +1,3 @@
-import React, { Suspense } from 'react';
-
 import Name from './components/Name';
 
 function App() {
